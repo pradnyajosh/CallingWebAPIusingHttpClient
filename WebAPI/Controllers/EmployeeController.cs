@@ -5,7 +5,7 @@
     using System.Net;
     using System.Net.Http;
     using System.Web.Http;
-	//This is Employee controller page
+	//This is Employee controller page	
     public class EmployeeController : ApiController
     {
         EntityModel context = new EntityModel();
@@ -36,7 +36,8 @@
             return Request.CreateResponse(HttpStatusCode.OK, employee);
         }
 
-        /// <summary>
+        ///changes done for rebasing 
+		///<summary>
         /// Dispose
         /// </summary>
         /// <param name="disposing"></param>
