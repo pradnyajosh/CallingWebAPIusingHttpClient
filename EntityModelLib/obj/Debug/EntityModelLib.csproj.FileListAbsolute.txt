@@ -1,0 +1,12 @@
+D:\Projects\ALM\For-PKJ\CallingWebAPIusingHttpClient\Calling Web API using HttpClient\EntityModelLib\bin\Debug\EntityModelLib.dll.config
+D:\Projects\ALM\For-PKJ\CallingWebAPIusingHttpClient\Calling Web API using HttpClient\EntityModelLib\bin\Debug\EntityModelLib.dll
+D:\Projects\ALM\For-PKJ\CallingWebAPIusingHttpClient\Calling Web API using HttpClient\EntityModelLib\bin\Debug\EntityModelLib.pdb
+D:\Projects\ALM\For-PKJ\CallingWebAPIusingHttpClient\Calling Web API using HttpClient\EntityModelLib\bin\Debug\EntityFramework.dll
+D:\Projects\ALM\For-PKJ\CallingWebAPIusingHttpClient\Calling Web API using HttpClient\EntityModelLib\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\ALM\For-PKJ\CallingWebAPIusingHttpClient\Calling Web API using HttpClient\EntityModelLib\bin\Debug\EntityFramework.xml
+D:\Projects\ALM\For-PKJ\CallingWebAPIusingHttpClient\Calling Web API using HttpClient\EntityModelLib\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\ALM\For-PKJ\CallingWebAPIusingHttpClient\Calling Web API using HttpClient\EntityModelLib\obj\Debug\EntityModelLib.csprojAssemblyReference.cache
+D:\Projects\ALM\For-PKJ\CallingWebAPIusingHttpClient\Calling Web API using HttpClient\EntityModelLib\obj\Debug\EntityModelLib.csproj.CoreCompileInputs.cache
+D:\Projects\ALM\For-PKJ\CallingWebAPIusingHttpClient\Calling Web API using HttpClient\EntityModelLib\obj\Debug\EntityModelLib.csproj.CopyComplete
+D:\Projects\ALM\For-PKJ\CallingWebAPIusingHttpClient\Calling Web API using HttpClient\EntityModelLib\obj\Debug\EntityModelLib.dll
+D:\Projects\ALM\For-PKJ\CallingWebAPIusingHttpClient\Calling Web API using HttpClient\EntityModelLib\obj\Debug\EntityModelLib.pdb
